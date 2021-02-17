@@ -29,8 +29,8 @@
 <hr></hr>
 <br>
 <li>
-  <p>Programming Knowledge</p>
-  <img align="left" alt="laravel" width="22px" src="https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png" style="max-width:100%;">
+ Programming Knowledge
+  <img align="left" alt="laravel" width="50px" src="https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png" style="max-width:100%;">
 </li>
   <br>
 <strong>Contact me on:</strong><br/>
