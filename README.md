@@ -24,7 +24,7 @@
 </li>
 <li>
   <g-emoji class="g-emoji" alias="electric_plug" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png">🔌</g-emoji>
-   My Goal is to become a Professional Web Designer;
+   My Goal is to become a Full Stack Engineer;
 </li>
 <hr></hr>
 <strong>Contact me on:</strong><br/>
