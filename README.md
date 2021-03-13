@@ -20,7 +20,7 @@
 </li>
 <li>
  <g-emoji class="g-emoji" alias="gem" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png">💎</g-emoji>
-  Working as a  Laravel Developer
+  Working as a  Junior Web Developer
 </li>
 <li>
   <g-emoji class="g-emoji" alias="electric_plug" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png">🔌</g-emoji>
