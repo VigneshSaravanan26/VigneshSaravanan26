@@ -8,7 +8,7 @@
 </br>
 <li>
     <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-  I'm Junior-Web developer 
+  I'm Junior-Web Developer 
 </li>
 <li>
   <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
