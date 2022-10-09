@@ -41,13 +41,12 @@ const vignesh = {
     askMeAbout: ["web dev", "tech"],
     technologies: {
         backEnd: {
-            js: ["Node","Express"],
+            js: ["Node","Mongodb"],
         },
         frontend: {
             js: ["React"],
         },
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "php"]
     },
     currentFocus: "Building Robots to ease opertations",
     funFact: "There are two ways to write error-free programs; only the third one works"
