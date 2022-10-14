@@ -62,7 +62,7 @@ const vignesh = {
   <img align="left" alt="Vignesh's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 </a>
 <a href="https://github.com/VigneshSaravanan26">
-  <img align="left" alt="vignesh's Github" width="22px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
+  <img align="left" alt="vignesh's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="max-width:550%;">
 </a>
 
 
